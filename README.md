@@ -12,25 +12,24 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://bestsecuritysearch.com/wp-content/uploads/2016/10/discord-logo-bss.png" />][Discord]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.discordapp.com/attachments/886229382862098482/889243756753207336/discord.png" />][Discord]
 
 
 <br />
 
 ### Technologies that I know!
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
+![Python](https://cdn.discordapp.com/attachments/886229382862098482/889240925807738880/python_1.png)&nbsp;
+![JavaScript](https://cdn.discordapp.com/attachments/886229382862098482/889241194473848882/javascript.png)&nbsp;
+![React](https://cdn.discordapp.com/attachments/886229382862098482/889241417870876773/react.png)&nbsp;
+![Node.js](https://cdn.discordapp.com/attachments/886229382862098482/889241646313664592/nodejs.png)&nbsp;
+![HTML](https://cdn.discordapp.com/attachments/886229382862098482/889242077165133874/html-5.png)&nbsp;
+![CSS](https://cdn.discordapp.com/attachments/886229382862098482/889242255037186168/css-3.png)&nbsp;
+![Git](https://cdn.discordapp.com/attachments/886229382862098482/889242593697865788/git-logo.png)&nbsp;
+![GitHub](https://cdn.discordapp.com/attachments/886229382862098482/889242665802149938/github.png)&nbsp;
+![Visual Studio Code](https://cdn.discordapp.com/attachments/886229382862098482/889242755149205566/visual-studio.png)&nbsp;
+![Lua](https://cdn.discordapp.com/attachments/886229382862098482/889242833742073936/lua.png)&nbsp;
+![PhotoShop](https://cdn.discordapp.com/attachments/886229382862098482/889243449222627439/adobe-photoshop-logo.png)&nbsp;
 
 
 <br />
