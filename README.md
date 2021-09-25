@@ -1,4 +1,4 @@
-# Hi there, I'm Toni - aka [Kinez] 👋
+# Hi there, I'm Toni - 👋
 
 <div align="center"><img src="https://media.giphy.com/media/elfrbv2eE2jkYeOtLw/giphy.gif?cid=790b7611d6bde2b29f20713b1c83a8776e71c836d4f243e1&rid=giphy.gif&ct=g"></div>
 
